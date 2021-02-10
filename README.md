@@ -18,14 +18,20 @@ Since the dawn of time, man has asked the quesiton: "How do I use Github?"
 ## How to Run Program 
 Hopefully this course can help me figure out what I'm doing to use this toold to my advantage
 
+```text
+Hello_World/
+└── 
+    │── README.md
+    │── pgmname1.R
+    │── filename1.csv
+    │── examples.html
+   
+```
+
 ## Files Used 
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
-- URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+- I didn't use any datafiles for this practice  .
+- I probably got them from ICON if there are any files.
+[The most comprehensive baseball database on Kaggle](https://www.kaggle.com/seanlahman/the-history-of-baseball)
 
 ## Additional Documentation
 
@@ -34,4 +40,4 @@ No additional documentation at this time.  Here is some **BOLD** text
 
 
 ## Versioning
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
+I hope to be able to update my code many times throughout my career because I can keep improving my skills.
