@@ -8,23 +8,16 @@
 
 ## Project Title
 
-**Hello World Sample** 
-*Hello World Sample* 
+**BAIS Pro Prep Sample** 
+*I should probably learn how to use this sooner rather than late* 
 
 ## Description
 
-Practice using GitHub by creating a sample repository
+Since the dawn of time, man has asked the quesiton: "How do I use Github?"
+
 ## How to Run Program 
-Explain here how you would run the program and what files need to be available. 
-```text
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
-   
-```
+Hopefully this course can help me figure out what I'm doing to use this toold to my advantage
+
 ## Files Used 
 - Did you use any datafiles?  
 - List filenames
